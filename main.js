@@ -5,5 +5,5 @@ h1.addEventListener("click", () => {
         return;
     }
 
-    h1.style.color = "blue";
+    h1.style.color = "purple";
 })
